@@ -8,5 +8,7 @@ In this directory there is a learning tree.  This to get a better understanding 
 1. ### Project Management Specializations - 
   * In this directory you will find specializations that pertain project management. You will find the following specializations in this directory.  
    1.Project Management Principles and Practice
-2. ### Coming Soon - 
+2. ### Programming - 
   * Coming Soon. 
+3. ### Computer Science, Software Development & Engineering -
+  * Coming Soon.  
