@@ -21,5 +21,5 @@ Capstone can be found in this folder.
     - coming soon 
  * Professional Certificates
     - coming soon 
-5. Undergraduate work:
+5. ### Undergraduate work:
  * [Undergraduate work](https://github.com/HeinoPortfolio/Undergraduate_Work) - An assortment of udergraduate work. This work was done while pursuing a bachelor's degree in information systems or software development.
