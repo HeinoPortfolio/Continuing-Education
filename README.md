@@ -12,4 +12,12 @@ Capstone can be found in this Folder.
 2. ### Programming - 
   * Coming Soon. 
 3. ### Computer Science, Software Development & Engineering -
-  * Coming Soon.  
+  * Coming Soon.
+4. ### Data Science, Data Analytics, Machine Learning (ML), and Artificial Intelligence (AI)
+ * For course work see the links below.
+     - [Master's degree work in data analytics](https://github.com/HeinoPortfolio/Data-Analytics-Grad-Work)
+     - 
+ * Specializations:
+    - coming soon 
+ * Professional Certificates
+    - coming soon 
