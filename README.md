@@ -7,7 +7,7 @@ In this directory there is a learning tree.  This to get a better understanding 
 
 1. ### Project Management Specializations - 
   * In this directory you will find specializations that pertain project management. You will find the following specializations in this directory.  
-   1.Project Management Principles and Practice
+ - [Project Management Principles and Practice](https://github.com/HeinoPortfolio/Continuing-Education/tree/main/Project%20Management)
 2. ### Programming - 
   * Coming Soon. 
 3. ### Computer Science, Software Development & Engineering -
