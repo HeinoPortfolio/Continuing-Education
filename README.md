@@ -8,7 +8,7 @@ In this directory there is a learning tree.  This to get a better understanding 
 1. ### Project Management Specializations - 
   * In this directory you will find specializations that pertain project management. You will find the following specializations in this directory.  
      - [Project Management Principles and Practice](https://github.com/HeinoPortfolio/Continuing-Education/tree/main/Project%20Management) - Define a project's scope and write a project plan. Create a project budget. Build a work breakdown schedule. Identify and manage risks. Learned how to create a work
-Capstone can be found in this Folder.
+Capstone can be found in this folder.
 2. ### Programming - 
   * Coming Soon. 
 3. ### Computer Science, Software Development & Engineering -
@@ -21,3 +21,5 @@ Capstone can be found in this Folder.
     - coming soon 
  * Professional Certificates
     - coming soon 
+5. Undergraduate work:
+ * [Undergraduate work](https://github.com/HeinoPortfolio/Undergraduate_Work) - An assortment of udergraduate work. This work was done while pursuing a bachelor's degree in information systems or software development.
