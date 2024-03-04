@@ -22,4 +22,4 @@ Capstone can be found in this folder.
  * Professional Certificates
     - coming soon 
 5. ### Undergraduate work:
- * [Undergraduate work](https://github.com/HeinoPortfolio/Undergraduate_Work) - An assortment of undergraduate work. This work was done while pursuing a bachelor's degree in information systems or software development.
+ * [Undergraduate work](https://github.com/HeinoPortfolio/Undergraduate_Work) - An assortment of undergraduate work. This work was done while pursuing a bachelor's degree in information systems or software development.  This repository contians content that pertains to courses that covered software engineering, programming languages (Python and Java), Android development, and information systems topics. 
