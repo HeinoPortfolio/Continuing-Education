@@ -9,17 +9,26 @@ In this directory there is a learning tree.  This to get a better understanding 
   * In this directory you will find specializations that pertain project management. You will find the following specializations in this directory.  
      - [Project Management Principles and Practice](https://github.com/HeinoPortfolio/Continuing-Education/tree/main/Project%20Management) - Define a project's scope and write a project plan. Create a project budget. Build a work breakdown schedule. Identify and manage risks. Learned how to create a work breakdown schedule.
 Capstone can be found in this folder.
-2. ### Programming - 
-  * Coming Soon. 
-3. ### Computer Science, Software Development & Engineering -
+2. ### Programming Languages- 
+ * Specializations:
+    - coming soon
+3. ### Computer Science -
   * Specializations:
-    - coming soon 
-4. ### Data Science, Data Analytics, Machine Learning (ML), and Artificial Intelligence (AI)
+    - coming soon
+4. ### Software Development & Engineering -
+* Specializations:
+    - coming soon
+5. ### Data Science, Data Analytics, Machine Learning (ML), and Artificial Intelligence (AI)
  * For course work see the links below.
      - [Master's degree work in data analytics](https://github.com/HeinoPortfolio/Data-Analytics-Grad-Work) - Topics that were covered in this degree were the following:  data visualization, data preparations, Postgres SQL, Tableau, supervised and unsupervised learning, machine learning, predictive modeling, data mining, exploratory data analysis, and data acquisition.
  * Specializations:
     - coming soon 
  * Professional Certificates
     - coming soon 
-5. ### Undergraduate work:
- * [Undergraduate work](https://github.com/HeinoPortfolio/Undergraduate_Work) - An assortment of undergraduate work. This work was done while pursuing a bachelor's degree in information systems or software development.  This repository contians content that pertains to courses that covered software engineering, programming languages (Python and Java), Android development, and information systems topics. 
+6. ### Machine Learning (ML) and Artificial Intelligence (AI)
+ * Specializations:
+    - coming soon 
+ * Professional Certificates
+    - coming soon 
+7. ### Undergraduate work:
+ * [Undergraduate work](https://github.com/HeinoPortfolio/Undergraduate_Work) - An assortment of undergraduate work. This work was done while pursuing a bachelor's degree in information systems or software development.  This repository contains content that pertains to courses that covered software engineering, programming languages (Python and Java), Android development, and information systems topics. 
