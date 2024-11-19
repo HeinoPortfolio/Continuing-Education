@@ -15,11 +15,14 @@ Capstone can be found in this folder.
 3. ### Computer Science -
   * Specializations:
     - coming soon
+  * For master's course work see the link below.:
+    -  [Master's degree work in computer science](https://github.com/HeinoPortfolio/MS_Comp_Sci)
+    -  **Note:** The link above is only available for job inteviews and other similar events.
 4. ### Software Development & Engineering -
 * Specializations:
     - coming soon
 5. ### Data Science, Data Analytics, Machine Learning (ML), and Artificial Intelligence (AI)
- * For course work see the links below.
+ * For master's course work see the link below.
      - [Master's degree work in data analytics](https://github.com/HeinoPortfolio/Data-Analytics-Grad-Work) - Topics that were covered in this degree were the following:  data visualization, data preparations, Postgres SQL, Tableau, supervised and unsupervised learning, machine learning, predictive modeling, data mining, exploratory data analysis, and data acquisition.
  * Specializations:
     - coming soon 
