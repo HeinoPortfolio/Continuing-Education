@@ -37,5 +37,5 @@ Capstone can be found in this folder.
 7. ### Undergraduate work:
  * [Undergraduate work](https://github.com/HeinoPortfolio/Undergraduate_Work) - An assortment of undergraduate work. This work was done while pursuing a bachelor's degree in information systems or software development.  This repository contains content that pertains to courses that covered software engineering, programming languages (Python and Java), Android development, and information systems topics.
 8. ### Projects -
- * [Android Projects](https://github.com/HeinoPortfolio/AndroidProject) - **My School Scheduler Project** Project's pupose was to build an application that would allow students to manage their term's information for a fictious school.
+ * [Android Projects](https://github.com/HeinoPortfolio/AndroidProject) - **My School Scheduler Project** Project's pupose was to build an application that would allow students to manage their term's information for a fictious school. This project can be found in my undergraduate work as well.
  
