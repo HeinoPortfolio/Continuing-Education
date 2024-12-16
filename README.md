@@ -9,6 +9,9 @@ In this directory there is a learning tree.  This to get a better understanding 
   * In this directory you will find specializations that pertain project management. You will find the following specializations in this directory.  
      - [Project Management Principles and Practice](https://github.com/HeinoPortfolio/Continuing-Education/tree/main/Project%20Management) - Define a project's scope and write a project plan. Create a project budget. Build a work breakdown schedule. Identify and manage risks. Learned how to create a work breakdown schedule.
 Capstone can be found in this folder.
+ * For master's course work see the link below:
+    -  [Master's degree work in information technology management](https://github.com/HeinoPortfolio/MS_IT_Management))
+       - **Note:** The link above is still being updated.
 2. ### Programming Languages- 
  * Specializations:
     - coming soon
