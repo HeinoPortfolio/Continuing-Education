@@ -17,7 +17,7 @@ Capstone can be found in this folder.
     - coming soon
   * For master's course work see the link below:
     -  [Master's degree work in computer science](https://github.com/HeinoPortfolio/MS_Comp_Sci)
-       - **Note:** The link above is only available for job inteviews and other similar events.
+       - **Note:** The link above is only available for job inteviews and other similar events. Clicking this link will take you to another directory.
     -  
 4. ### Software Development & Engineering -
 * Specializations:
