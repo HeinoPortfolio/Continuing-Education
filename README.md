@@ -11,7 +11,7 @@ In this directory there is a learning tree.  This to get a better understanding 
 Capstone can be found in this folder.
  * For master's course work see the link below:
     -  [Master's degree work in information technology management](https://github.com/HeinoPortfolio/MS_IT_Management))
-       - **Note:** The link above is still being updated.
+       - **Note:** The link above is still being updated and may not be fully available.
 2. ### Programming Languages- 
  * Specializations:
     - coming soon
