@@ -6,21 +6,22 @@ In this directory there is a learning tree.  This to get a better understanding 
 
 
 1. ### Project Management Specializations - 
-  * In this directory you will find specializations that pertain project management. You will find the following specializations in this directory.  
-     - [Project Management Principles and Practice](https://github.com/HeinoPortfolio/Continuing-Education/tree/main/Project%20Management) - Define a project's scope and write a project plan. Create a project budget. Build a work breakdown schedule. Identify and manage risks. Learned how to create a work breakdown schedule.
-Capstone can be found in this folder.
- * For master's course work see the link below:
+* For master's course work see the link below:
     -  [Master's degree work in information technology management](https://github.com/HeinoPortfolio/MS_IT_Management)
        - **Note:** The link above is still being updated and may not be fully available.
+* Specializations:
+    -  In this directory you will find specializations that pertain project management. You will find the following specializations in this directory.  
+     - [Project Management Principles and Practice](https://github.com/HeinoPortfolio/Continuing-Education/tree/main/Project%20Management) - Define a project's scope and write a project plan. Create a project budget. Build a work breakdown schedule. Identify and manage risks. Learned how to create a work breakdown schedule. Capstone can be found in this folder.
+
 2. ### Programming Languages- 
  * Specializations:
     - coming soon
 3. ### Computer Science -
-  * Specializations:
-    - coming soon
   * For master's course work see the link below:
     -  [Master's degree work in computer science](https://github.com/HeinoPortfolio/MS_Comp_Sci)
        - **Note:** The link above is only available for job inteviews and other similar events. Clicking this link will take you to another directory.
+  * Specializations:
+    - coming soon
     -  
 4. ### Software Development & Engineering -
 * Specializations:
