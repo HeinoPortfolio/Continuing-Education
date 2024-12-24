@@ -34,11 +34,3 @@ The concepts and technologies used to create and complete the certificates are t
 |IBM Specializations and Certifications||
 |Meta| |
 |Misc||  |
-
-
-
-C
-- $`\textcolor{blue}{\text{???}}`$
-- $`\textcolor{blue}{\text{???}}`$
-- $`\textcolor{blue}{\text{???}}`$
-- $`\textcolor{blue}{\text{???}}`$
