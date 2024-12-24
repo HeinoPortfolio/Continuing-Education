@@ -1,4 +1,4 @@
-# Folder Overview
+# Directory Overview
 This directory holds professional certificates and specializations that pertain to the area of computer science.  The vendors that have provided a certification are the following:
 
 * Google
