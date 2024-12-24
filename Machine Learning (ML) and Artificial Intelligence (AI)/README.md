@@ -37,10 +37,3 @@ The concepts and technologies used to create and complete the certificates are t
 |Meta| |
 |Misc||  |
 
-
-
-C
-- $`\textcolor{blue}{\text{???}}`$
-- $`\textcolor{blue}{\text{???}}`$
-- $`\textcolor{blue}{\text{???}}`$
-- $`\textcolor{blue}{\text{???}}`$
