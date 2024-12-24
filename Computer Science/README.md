@@ -1,38 +1,37 @@
 # Folder Overview
-TEXT HERE
+This directory holds professional certificates and specializations that pertain to the area of computer science.  The vendors that have provided a certification are the following:
 
-# Competencies
-TEST HERE
-- Table elements
-- 
-- 
-- 
+* Google
+* Meta
+* IBM
+
+# Listing of Certifications and Specializations
+This section of the **README** file is broken down by vendor. It lists the competencies acquired while completing the certificate. 
+
+* **Google**  -
+  - Certifications goes here
+* **Meta**  -
+  - Certifications goes here
+* **IBM**  -
+  - Certifications goes here
+* **MISC** -
+  - Certifications goes here
 
 # Technologies and Concepts Used
 
-The concepts and technologies used to create and complete the assessments are the following:
--
+The concepts and technologies used to create and complete the certificates are the following:
+- $`\textcolor{blue}{\text{???}}`$
 -
 - 
 - 
 - 
 
-# Assignment Files 
+# Directory Explanation 
 
-|**File Name**|**Purpose**|**Additional Comments**|
+|**Directory**|**Purpose**|**Additional Comments**|
 |:-----:|:-----:|:-----|
-|| |
-|||
-|| |
-|||  |
+|Google| |
+|IBM Specializations and Certifications||
+|Meta| |
+|Misc||  |
 |  |  |  |
-| | |  |
-||| |
-
-
-
-C
-- $`\textcolor{blue}{\text{???}}`$
-- $`\textcolor{blue}{\text{???}}`$
-- $`\textcolor{blue}{\text{???}}`$
-- $`\textcolor{blue}{\text{???}}`$
