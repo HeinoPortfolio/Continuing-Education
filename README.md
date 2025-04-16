@@ -26,7 +26,7 @@ This **README** file shows the general structure of the **Continuing-Education**
     - coming soon
 5. ### Data Science and Data Analytics
  * For master's course work see the link below:
-     - [Master's degree work in data analytics](https://github.com/HeinoPortfolio/Data-Analytics-Grad-Work) - Topics that were covered in this degree were the following:  data visualization, data preparations, Postgres SQL, Tableau, supervised and unsupervised learning, machine learning, predictive modeling, data mining, exploratory data analysis, and data acquisition.
+     - [Master's degree work in data analytics](https://github.com/HeinoPortfolio/Data-Analytics-Grad-Work) - This degree has been completed and conferred. Topics that were covered in this degree were the following:  data visualization, data preparations, Postgres SQL, Tableau, supervised and unsupervised learning, machine learning, predictive modeling, data mining, exploratory data analysis, and data acquisition.
  * Specializations:
     - coming soon 
  * Professional Certificates
