@@ -14,16 +14,21 @@ This **README** file shows the general structure of the **Continuing-Education**
 2. ### Programming Languages- 
  * Specializations:
     - coming soon
+ * Professional Certificates
+    - coming soon 
 3. ### Computer Science -
   * For master's course work see the link below:
     -  [Master's degree work in computer science](https://github.com/HeinoPortfolio/MS_Comp_Sci)
        - **Note:** The link above is only available for job inteviews and other similar events. Clicking this link will take you to another directory.
   * Specializations:
     - coming soon
-    -  
+  * Professional Certificates
+    - coming soon 
 4. ### Software Development & Engineering -
 * Specializations:
     - coming soon
+* Professional Certificates
+    - coming soon 
 5. ### Data Science and Data Analytics
  * For master's course work see the link below:
      - [Master's degree work in data analytics](https://github.com/HeinoPortfolio/Data-Analytics-Grad-Work) - This degree has been completed and conferred. Topics that were covered in this degree were the following:  data visualization, data preparations, Postgres SQL, Tableau, supervised and unsupervised learning, machine learning, predictive modeling, data mining, exploratory data analysis, and data acquisition.
