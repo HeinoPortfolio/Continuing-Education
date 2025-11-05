@@ -6,7 +6,7 @@ This **README** file shows the general structure of the **Continuing-Education**
 1. ### Project Management Specializations - 
 * For master's course work see the link below:
     -  [Master's degree work in information technology management](https://github.com/HeinoPortfolio/MS_IT_Management)
-       - **Note:** This degree has been completed and conferred. The content of the link above is available, but not all content may be avaialble.  This is to meet university requirements on public display of coursework.
+       - **Note:** This degree has been completed and conferred. The content of the link above is available, but not all content may be available.  This is to meet university requirements on public display of coursework.
 * Specializations:
     -  In this directory you will find specializations that pertain project management. You will find the following specializations in this directory.  
      - [Project Management Principles and Practice](https://github.com/HeinoPortfolio/Continuing-Education/tree/main/Project%20Management) - Define a project's scope and write a project plan. Create a project budget. Build a work breakdown schedule. Identify and manage risks. Learned how to create a work breakdown schedule. Capstone can be found in this folder.
