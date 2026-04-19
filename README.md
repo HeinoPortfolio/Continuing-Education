@@ -1,6 +1,6 @@
 # Continuing Education Layout 
 ***
-This **README** file shows the general structure of the **Continuing-Education** repository.  Within each of the subfolders there will be a separate **README** with additional information about what is contained there as well as possible other information about the files. For example,  there may be a table that shows the concepts or technology used in the file or project.
+This **README** file shows the general structure of the **Continuing Education** repository.  Within each of the subfolders there will be a separate **README** with additional information about what is contained there as well as possible other information about the files. For example,  there may be a table that shows the concepts or technology used in the file or project.
 
 
 1. ### Project Management Specializations
@@ -43,6 +43,7 @@ This **README** file shows the general structure of the **Continuing-Education**
 7. ### Undergraduate work:
  * [Undergraduate work](https://github.com/HeinoPortfolio/Undergraduate_Work) - An assortment of undergraduate work. This work was done while pursuing a bachelor's degree in information systems or software development.  This repository contains content that pertains to courses that covered software engineering, programming languages (Python and Java), Android development, and information systems topics.
 8. ### Projects -
- * [Android Projects](https://github.com/HeinoPortfolio/AndroidProject) - **My School Scheduler Project** Project's pupose was to build an application that would allow students to manage their term's information for a fictious school. This project can be found in my undergraduate work as well.  This project was completed as part of my capstone for my bachelor's in software development.
- * [Financial Management Project](https://github.com/HeinoPortfolio/CS690-FinalProject) - **Savings Tracker** A C# console application designed to help users manage finances, track daily expenses, and meet savings goals. Developed using C# and Spectre Console, this project includes comprehensive documentation, diagrams, and requirements.
+ * [Android Projects](https://github.com/HeinoPortfolio/AndroidProject) - **My School Scheduler Project** - Project's pupose was to build an application that would allow students to manage their term's information for a fictious school. This project can be found in my undergraduate work as well.  This project was completed as part of my capstone for my bachelor's in software development.
+ * [Financial Management Project](https://github.com/HeinoPortfolio/CS690-FinalProject) - **Savings Tracker** - A C# console application designed to help users manage finances, track daily expenses, and meet savings goals. Developed using C# and Spectre Console, this project includes comprehensive documentation, diagrams, and requirements.
+ * [Crime Rate Project](https://heinoportfolio.github.io/MatthewHeino_Final-Project-Report.html) - **Crime Rate** - The objective of this project is to determine if there is a correlation between the rate of crime and unemployment. This project seeks to see if there is an observable correlation that be seen either graphically or seen in a mathematical supported way. There will be a discussion of the findings. The data topic that will covered in this project will be the temporal-spatial changes of unemployment rate in the contiguous USA. 
  
