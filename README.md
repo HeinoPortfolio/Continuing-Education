@@ -3,47 +3,88 @@
 This **README** file shows the general structure of the **Continuing Education** repository.  Within each of the sub-folders there will be a separate **README** with additional information about what is contained there as well as possible other information about the files. For example,  there may be a table that shows the concepts or technology used in the file or project.
 
 
-1. ### Project Management Specializations
-* For master's course work see the link below:
-    -  [Master's degree work in information technology management](https://github.com/HeinoPortfolio/MS_IT_Management)
-       - **Note:** This degree has been completed and conferred. The content of the link above is available, but not all content may be available.  This is to meet university requirements on public display of coursework.
-* Specializations:
-    -  In this directory you will find specializations that pertain project management. You will find the following specializations in this directory.  
-     - [Project Management Principles and Practice](https://github.com/HeinoPortfolio/Continuing-Education/tree/main/Project%20Management) - Define a project's scope and write a project plan. Create a project budget. Build a work breakdown schedule. Identify and manage risks. Learned how to create a work breakdown schedule. Capstone can be found in this folder.
+## Education, Certifications & Projects
 
-2. ### Programming Languages
- * Specializations:
-    - coming soon
- * Professional Certificates
-    - coming soon 
-3. ### Computer Science
-  * For master's course work see the link below:
-    -  [Master's degree work in computer science](https://github.com/HeinoPortfolio/MS_Comp_Sci)
-  * Specializations:
-    - coming soon
-  * Professional Certificates
-    - coming soon 
-4. ### Software Development & Engineering
-* Specializations:
-    - coming soon
-* Professional Certificates
-    - coming soon 
-5. ### Data Science and Data Analytics
- * For master's course work see the link below:
-     - [Master's degree work in data analytics](https://github.com/HeinoPortfolio/Data-Analytics-Grad-Work) - This degree has been completed and conferred. Topics that were covered in this degree are the following:  data visualization, data preparations, Postgres SQL, Tableau, supervised and unsupervised learning, machine learning, predictive modeling, data mining, exploratory data analysis, and data acquisition.
- * Specializations:
-    - coming soon 
- * Professional Certificates
-    - coming soon 
-6. ### Machine Learning (ML) and Artificial Intelligence (AI)
- * Specializations:
-    - coming soon 
- * Professional Certificates
-    - coming soon 
-7. ### Undergraduate work:
- * [Undergraduate work](https://github.com/HeinoPortfolio/Undergraduate_Work) - An assortment of undergraduate work. This work was done while pursuing a bachelor's degree in information systems or software development.  This repository contains content that pertains to courses that covered software engineering, programming languages (Python and Java), Android development, and information systems topics.
-8. ### Projects -
- * [Android Projects](https://github.com/HeinoPortfolio/AndroidProject) - **My School Scheduler Project** - Project's purpose was to build an application that would allow students to manage their term's information for a fictitious school. This project can be found in my undergraduate work as well.  This project was completed as part of my capstone for my bachelor's in software development. :information_source:  ***This project has been made private, but it is available upon request for interviews only.***
- * [Financial Management Project](https://github.com/HeinoPortfolio/CS690-FinalProject) - **Savings Tracker** - A C# console application designed to help users manage finances, track daily expenses, and meet savings goals. Developed using C# and Spectre Console, this project includes comprehensive documentation, diagrams, and requirements.
- * [Crime Rate Project](https://heinoportfolio.github.io/MatthewHeino_Final-Project-Report.html) - **Crime Rate** - The objective of this project is to determine if there is a correlation between the rate of crime and unemployment. This project seeks to see if there is an observable correlation that be seen either graphically or seen in a mathematical supported way. There will be a discussion of the findings. The data topic that will covered in this project will be the temporal-spatial changes of unemployment rate in the contiguous USA. 
+### 1. Project Management Specializations
+
+<details>
+<summary><strong>Click to view coursework and specializations</strong></summary>
+
+* **Master's Coursework:** [Master's degree work in information technology management](https://github.com/HeinoPortfolio/MS_IT_Management)
+  * *Note:* This degree has been completed and conferred. Some content is restricted to meet university requirements on public display of coursework.
+* **Specializations:**
+  * [Project Management Principles and Practice](https://github.com/HeinoPortfolio/Continuing-Education/tree/main/Project%20Management) — Define a project's scope and write a project plan, create a project budget, build a work breakdown schedule (WBS), and identify/manage risks. *(Capstone included in folder)*
+</details>
+
+### 2. Programming Languages
+
+<details>
+<summary><strong>Click to view specializations and certificates</strong></summary>
+
+* **Specializations:** *Coming soon*
+* **Professional Certificates:** *Coming soon*
+</details>
+
+### 3. Computer Science
+
+<details>
+<summary><strong>Click to view coursework, specializations, and certificates</strong></summary>
+
+* **Master's Coursework:** [Master's degree work in computer science](https://github.com/HeinoPortfolio/MS_Comp_Sci)
+  * *Focus Areas:* Software engineering, data analytics & data science, artificial intelligence, and cybersecurity (Python, C#, and JavaScript).
+* **Specializations:** *Coming soon*
+* **Professional Certificates:** *Coming soon*
+</details>
+
+### 4. Software Development & Engineering
+
+<details>
+<summary><strong>Click to view specializations and certificates</strong></summary>
+
+* **Specializations:** *Coming soon*
+* **Professional Certificates:** *Coming soon*
+
+</details>
+
+### 5. Data Science and Data Analytics
+
+<details>
+<summary><strong>Click to view coursework, specializations, and certificates</strong></summary>
+
+* **Master's Coursework:** [Master's degree work in data analytics](https://github.com/HeinoPortfolio/Data-Analytics-Grad-Work) — *Completed and conferred.*
+  * *Topics Covered:* Data acquisition, data preparation/cleaning, exploratory data analysis (EDA), PostgreSQL, Tableau, data visualization, predictive modeling, data mining, and supervised/unsupervised machine learning.
+* **Specializations:** *Coming soon*
+* **Professional Certificates:** *Coming soon*
+</details>
+
+### 6. Machine Learning (ML) and Artificial Intelligence (AI)
+
+<details>
+<summary><strong>Click to view specializations and certificates</strong></summary>
+
+* **Specializations:** *Coming soon*
+* **Professional Certificates:** *Coming soon*
+</details>
+
+### 7. Undergraduate Work
+
+<details>
+<summary><strong>Click to view undergraduate coursework</strong></summary>
+
+* **Bachelor's Coursework:** [Undergraduate work](https://github.com/HeinoPortfolio/Undergraduate_Work) — An assortment of projects completed while pursuing a bachelor's degree in Information Systems and Software Development.
+  * *Topics Covered:* Software engineering, Python, Java, Android development, Flask, web scraping, UX/UI design, and information systems.
+</details>
+
+### 8. Projects
+
+<details>
+<summary><strong>Click to view featured projects</strong></summary>
+
+* **[My School Scheduler Project](https://github.com/HeinoPortfolio/AndroidProject)** *(Android Development)* — Built an Android application allowing students to manage academic term schedules for a fictitious school. Completed as the capstone for a Bachelor's in Software Development.
+  * :information_source: *Note: This repository is currently private and available upon request for interviews.*
+* **[Savings Tracker](https://github.com/HeinoPortfolio/CS690-FinalProject)** *(Financial Management)* — A C# console application developed with **Spectre Console** to help users manage finances, track daily expenses, and meet savings goals. Includes full software engineering documentation, requirements, and system diagrams.
+* **[Crime Rate & Unemployment Analysis](https://heinoportfolio.github.io/MatthewHeino_Final-Project-Report.html)** *(Data Analytics)* — Investigated temporal-spatial changes in unemployment rates across the contiguous USA to evaluate graphical and mathematical correlations with crime rates.
+
+</details>
+
  
